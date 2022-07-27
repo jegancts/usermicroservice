@@ -1,0 +1,15 @@
+version: '2.1'
+
+services:
+  user-service:
+    build:
+      context: .
+      args:
+        - http_proxy
+        - https_proxy
+        - no_proxy
+    image: user-service/api:v2
+    ports:
+      - 8089:8080
+
+

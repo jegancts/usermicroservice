@@ -1,0 +1,15 @@
+com/userdetail/microservice/entity/UserDetails$UserDetailsBuilder.class
+com/userdetail/microservice/dto/AddressDto.class
+com/userdetail/microservice/dao/UserContactDetailsRepository.class
+com/userdetail/microservice/service/UserContactDetailsServiceImpl.class
+com/userdetail/microservice/entity/Address.class
+com/userdetail/microservice/handler/GlobalExceptionHandler.class
+com/userdetail/microservice/dto/AddressDto$AddressDtoBuilder.class
+com/userdetail/microservice/exceptions/UserIdvalidationException.class
+com/userdetail/microservice/exceptions/UserNotFoundException.class
+com/userdetail/microservice/service/UserContactDetailsService.class
+com/userdetail/microservice/dto/ErrorDTO.class
+com/userdetail/microservice/dto/UserDetailsDto.class
+com/userdetail/microservice/entity/UserDetails.class
+com/userdetail/microservice/MicroserviceApplication.class
+com/userdetail/microservice/controller/UserContactDetailsController.class

@@ -1,0 +1,4 @@
+com/userdetail/microservice/controlller/ControllerTest.class
+com/userdetail/microservice/service/UserContactDetailsControllerTest.class
+com/userdetail/microservice/controlller/ControllerITestIT.class
+com/userdetail/microservice/MicroserviceApplicationTests.class
